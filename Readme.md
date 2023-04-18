@@ -1,4 +1,4 @@
-Projeto simples utilizando, respectivamente, as estruturas de condição e repetição:
+Projeto simples utilizando, respectivamente, as estruturas de repetição e condição:
 - do while
 - for
 - while
